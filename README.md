@@ -1,1 +1,1 @@
-This repository contains essential DataCamp Problems.
+This repository contains essential DataCamp Exercises.
